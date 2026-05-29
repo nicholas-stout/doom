@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: example-with-results
+# key: <er
+# --
+#+begin_example
+$1
+#+end_example
+
+#+results:
+$0
