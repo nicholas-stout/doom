@@ -63,4 +63,3 @@
 (package! evil-numbers
   :recipe (:local-repo "~/evil-numbers"
            :branch "patch/cl-lib"))
-(package! chezmoi)
